@@ -1,0 +1,22 @@
+.home__section {
+  display: flex;
+  padding: 30px;
+}
+.btn {
+  background-color: aqua;
+  padding: 15px;
+  border-radius: 7px;
+  border: 1px solid aquamarine;
+  position: absolute;
+  right: 3%;
+  cursor: pointer;
+}
+
+.featureButton {
+  margin-left: 30px;
+}
+.featureButton button {
+  border-radius: 30px;
+  text-transform: inherit;
+  margin: 5px;
+}
