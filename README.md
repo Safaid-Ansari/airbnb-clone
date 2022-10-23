@@ -4,7 +4,15 @@
 
 # it is a clone of airbnb page https://www.airbnb.co.in/s/experiences/online
 
-## ScreenShot
+## ScreenShots of project
+
+# for desktop
+
+![](/images/4.png)
+![](/images/5.png)
+![](/images/6.png)
+
+# for mobile
 
 ![](/images/1.png)
 
