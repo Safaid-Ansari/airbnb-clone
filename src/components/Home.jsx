@@ -10,7 +10,9 @@ import { Button } from "@material-ui/core";
 function Home() {
   return (
     <div className="home">
-      {/* <Banner /> */}
+      {/* for section one  */}
+
+      {/* use different different images in the card for looking beautiful  */}
       <h1 style={{ marginLeft: "50px", marginTop: "20px" }}>New this Weak </h1>
       <div className="home__section">
         <Card
@@ -29,6 +31,9 @@ function Home() {
           description="Generally found in tech-heavy industries and large corporations."
         />
       </div>
+
+      {/* for section two */}
+
       <div className="featureButton">
         <Button variant="outlined">Cancellation Flexibility</Button>
         <Button variant="outlined">Type of place</Button>
@@ -39,10 +44,13 @@ function Home() {
         <Button variant="outlined">Wellness</Button>
         <Button variant="outlined">Designed for accessibility</Button>
       </div>
+
+      {/* for section three */}
+
       <h2 style={{ marginLeft: "50px", marginTop: "20px" }}>
         Plan a trip with help from local Hosts around the world
       </h2>
-      <div className="home__section">
+      <div className="home__section ">
         <PlanTripCard
           src={
             "https://images.pexels.com/photos/3375234/pexels-photo-3375234.jpeg?auto=compress&cs=tinysrgb&w=600"
@@ -132,6 +140,7 @@ function Home() {
           price="7999"
         ></PlanTripCard>
       </div>
+      {/* for section 4  */}
       <h2 style={{ marginLeft: "50px", marginTop: "20px" }}>Top Sellers</h2>
       <div className="home__section">
         <PlanTripCard
@@ -223,6 +232,9 @@ function Home() {
           price="7999"
         ></PlanTripCard>
       </div>
+
+      {/* for section five  */}
+
       <h2 style={{ marginLeft: "50px", marginTop: "20px" }}>
         Starting in the next 6 hours
       </h2>

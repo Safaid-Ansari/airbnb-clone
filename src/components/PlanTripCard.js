@@ -2,9 +2,9 @@ import React from "react";
 
 import "./PlanTripCard.css";
 
-function Card({ src, title, description, price, rating }) {
+function PlanTripCard({ src, title, description, price, rating }) {
   return (
-    <div>
+    <div className="container">
       <div className="cardBody">
         <img src={src} alt=""></img>
         <i
@@ -26,4 +26,4 @@ function Card({ src, title, description, price, rating }) {
   );
 }
 
-export default Card;
+export default PlanTripCard;

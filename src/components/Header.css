@@ -31,9 +31,9 @@
   justify-content: center;
   align-items: center;
   width: 100px;
-
   background-color: whitesmoke;
   border-radius: 15px;
+  border: 1px solid black;
 }
 .avatar i {
   padding-right: 10px;
@@ -43,22 +43,11 @@
   border-radius: 15px;
   border: 1px solid aliceblue;
 }
-.header__center {
-  display: flex;
-  flex: 1;
-  align-items: center;
-  max-width: fit-content;
-  padding: 10px;
-  height: 30px;
-  border: 1px solid lightgray;
-  border-radius: 999px;
-}
 
 .header__center > input {
   border: none;
   padding: 10px;
   outline-width: 0;
-  /* width: 250px; */
 }
 
 .header__right {
@@ -76,4 +65,17 @@
   background-color: aliceblue;
   border-radius: 15px;
   border: 1px solid aliceblue;
+}
+
+@media screen and (max-width: 480px) {
+  .header__right {
+    width: 30vw;
+  }
+  .innerSpan {
+    padding: 0px;
+    right: 32%;
+  }
+  .header__icon {
+    width: 100px;
+  }
 }

@@ -1,6 +1,8 @@
 .home__section {
   display: flex;
   padding: 30px;
+  overflow-x: auto;
+  scroll-behavior: smooth;
 }
 .btn {
   background-color: aqua;
@@ -19,4 +21,11 @@
   border-radius: 30px;
   text-transform: inherit;
   margin: 5px;
+}
+
+@media screen and (max-width: 480px) {
+  .home__section {
+    flex-direction: column;
+    overflow-x: hidden;
+  }
 }
