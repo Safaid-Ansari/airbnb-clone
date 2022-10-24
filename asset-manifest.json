@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/airbnb-clone/static/css/main.a2b68ed2.chunk.css",
-    "main.js": "/airbnb-clone/static/js/main.74456207.chunk.js",
-    "main.js.map": "/airbnb-clone/static/js/main.74456207.chunk.js.map",
+    "main.css": "/airbnb-clone/static/css/main.06e3794d.chunk.css",
+    "main.js": "/airbnb-clone/static/js/main.49da1556.chunk.js",
+    "main.js.map": "/airbnb-clone/static/js/main.49da1556.chunk.js.map",
     "runtime-main.js": "/airbnb-clone/static/js/runtime-main.2f7129ad.js",
     "runtime-main.js.map": "/airbnb-clone/static/js/runtime-main.2f7129ad.js.map",
     "static/css/2.4810cd22.chunk.css": "/airbnb-clone/static/css/2.4810cd22.chunk.css",
     "static/js/2.68aa0cd3.chunk.js": "/airbnb-clone/static/js/2.68aa0cd3.chunk.js",
     "static/js/2.68aa0cd3.chunk.js.map": "/airbnb-clone/static/js/2.68aa0cd3.chunk.js.map",
     "index.html": "/airbnb-clone/index.html",
-    "precache-manifest.6e4d3021a4012797912971d781066d1e.js": "/airbnb-clone/precache-manifest.6e4d3021a4012797912971d781066d1e.js",
+    "precache-manifest.b6211540b66f777896e75c506e71ac28.js": "/airbnb-clone/precache-manifest.b6211540b66f777896e75c506e71ac28.js",
     "service-worker.js": "/airbnb-clone/service-worker.js",
     "static/css/2.4810cd22.chunk.css.map": "/airbnb-clone/static/css/2.4810cd22.chunk.css.map",
-    "static/css/main.a2b68ed2.chunk.css.map": "/airbnb-clone/static/css/main.a2b68ed2.chunk.css.map",
+    "static/css/main.06e3794d.chunk.css.map": "/airbnb-clone/static/css/main.06e3794d.chunk.css.map",
     "static/js/2.68aa0cd3.chunk.js.LICENSE.txt": "/airbnb-clone/static/js/2.68aa0cd3.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/airbnb-clone/static/media/fontawesome-webfont.fee66e71.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.2f7129ad.js",
     "static/css/2.4810cd22.chunk.css",
     "static/js/2.68aa0cd3.chunk.js",
-    "static/css/main.a2b68ed2.chunk.css",
-    "static/js/main.74456207.chunk.js"
+    "static/css/main.06e3794d.chunk.css",
+    "static/js/main.49da1556.chunk.js"
   ]
 }
