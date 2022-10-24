@@ -25,7 +25,7 @@ function Header() {
           <LanguageIcon />
         </span>
         <div className="avatar">
-          <i class="fa-solid fa-bars"></i>
+          <i className="fa-solid fa-bars"></i>
           <Avatar />
         </div>
       </div>

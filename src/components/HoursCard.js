@@ -7,9 +7,9 @@ export default function HoursCard({ src, rating, price, description }) {
         <img src={src} alt="" />
       </div>
       <div className="infoContainer">
-        <i class="fa-regular fa-heart"></i>
+        <i className="fa-regular fa-heart"></i>
         <i
-          class="fa-sharp fa-solid fa-star"
+          className="fa-sharp fa-solid fa-star"
           style={{ fontSize: "12px", marginLeft: "10px" }}
         >
           {rating}

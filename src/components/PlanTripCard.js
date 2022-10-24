@@ -8,7 +8,7 @@ function PlanTripCard({ src, title, description, price, rating }) {
       <div className="cardBody">
         <img src={src} alt=""></img>
         <i
-          class="fa-sharp fa-solid fa-star"
+          className="fa-sharp fa-solid fa-star"
           style={{ fontSize: "12px", marginLeft: "10px" }}
         >
           {rating} : {title}
