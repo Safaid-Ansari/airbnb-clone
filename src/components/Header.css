@@ -78,6 +78,14 @@
   .header__icon {
     width: 100px;
   }
+  .header__right > span {
+    position: relative;
+    right: 7%;
+  }
+  .avatar {
+    position: relative;
+    right: 5%;
+  }
 }
 @media screen and (max-width: 768px) {
   .header__right {
