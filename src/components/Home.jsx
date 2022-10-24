@@ -13,7 +13,7 @@ function Home() {
       {/* for section one  */}
 
       {/* use different different images in the card for looking beautiful  */}
-      <h1 style={{ marginLeft: "50px", marginTop: "20px" }}>New this Weak </h1>
+      <h1 style={{ marginLeft: "50px", marginTop: "20px" }}>New This Weak </h1>
       <div className="home__section">
         <Card
           src="https://images.pexels.com/photos/4974915/pexels-photo-4974915.jpeg?auto=compress&cs=tinysrgb&w=600"

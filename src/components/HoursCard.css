@@ -55,3 +55,13 @@ div h5 {
     width: 130px;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .Container {
+    width: 350px;
+    margin-left: 100px;
+  }
+  .imgContainer {
+    width: 130px;
+  }
+}

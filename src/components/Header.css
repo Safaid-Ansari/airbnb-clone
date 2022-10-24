@@ -79,3 +79,18 @@
     width: 100px;
   }
 }
+@media screen and (max-width: 768px) {
+  .header__right {
+    width: 30vw;
+  }
+  .header__right > span {
+    margin-left: 20px;
+  }
+  .innerSpan {
+    padding: 0px;
+    right: 35%;
+  }
+  .header__icon {
+    width: 100px;
+  }
+}
