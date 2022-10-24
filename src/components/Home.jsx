@@ -47,7 +47,7 @@ function Home() {
 
       {/* for section three */}
 
-      <h2 style={{ marginLeft: "50px", marginTop: "20px" }}>
+      <h2 style={{ marginLeft: "30px", marginTop: "20px" }}>
         Plan a trip with help from local Hosts around the world
       </h2>
       <div className="home__section ">

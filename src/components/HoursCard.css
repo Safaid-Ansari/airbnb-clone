@@ -48,8 +48,8 @@ div h5 {
 
 @media screen and (max-width: 480px) {
   .Container {
-    width: 350px;
-    margin-left: 0px;
+    position: relative;
+    right: 20%;
   }
   .imgContainer {
     width: 130px;
@@ -59,7 +59,7 @@ div h5 {
 @media screen and (max-width: 768px) {
   .Container {
     width: 350px;
-    margin-left: 100px;
+    margin-left: 20%;
   }
   .imgContainer {
     width: 130px;
